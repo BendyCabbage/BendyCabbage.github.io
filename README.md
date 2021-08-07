@@ -1,3 +1,3 @@
 #BendyCabbage.github.io
 
-Hello, this is my personal website, at the moment this is here because really why not? I'm going to put some of my Python projects up on GitHub at a later date, just getting settled in!
+Hello, this is my personal website, at the moment I'm getting setup so it's pretty ugly. You can find my small Python projects at https://github.com/BendyCabbage/PythonProjects
