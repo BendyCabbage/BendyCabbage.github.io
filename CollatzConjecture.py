@@ -23,4 +23,4 @@ for n in range(1, 73):
     steps.append(output[0])
     #print(f"{n}. Steps: {output[0]}. Peak: {output[1]}")
 
-print(main(63728127,0,63728127))
+#print(main(63728127,0,63728127))
